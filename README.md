@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shivani2147
 - 👀 I’m interested to become Data Scientist
 - 🌱 I’m currently learning Data Science course
-- 💞️ I’m looking to collaborate on MNC's company
 - 📫 How to reach me @shivani_2147
 
 <!---
